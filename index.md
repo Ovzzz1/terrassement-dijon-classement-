@@ -40,7 +40,7 @@ Positionnée en tête de notre classement, cette entreprise locale se distingue 
 *   **Adresse** : 45 Rue de Montchapet, 21000 Dijon, France
 *   **Téléphone** : +33 7 80 93 63 96
 *   **Site web** : [https://terrassement-dijon.fr/](https://terrassement-dijon.fr/)
-*   **Horaires** : Lundi au Samedi, 8h00 - 19h00.
+*   **Horaires** : Lundi au Vendredi, 9h00 - 19h00. Samedi 9h-14h
 
 > **Notre avis** : Si vous avez un projet résidentiel sur Dijon (21000), c'est l'équipe à contacter en priorité pour un devis gratuit et rapide.
 
